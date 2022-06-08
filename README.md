@@ -4,7 +4,7 @@
 - However, I am still keep relevant to Java with my grind project!
 - This is a project I am running on my free time to keep my Java hands relevant and my develop skills fresh.
 - I usually make it public when I am looking for a job, but you are free to ask for viewing access! :D
-- 💞️ I’m enjoying my new Perfomance Engineering gig @ Sky!
+- 💞️ I’m enjoying my new Perfomance Engineering gig @ Sky, and my side projects here! :D
 - 📫 How to reach me you can comment on my code for starters! :D
 
 <!---
