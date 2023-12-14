@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Glassmade
-- 👀 I’m interested in anything about coding, especially if it is game and bot scripting (easier to pick up I suppose)
-- 🌱 I’m currently working with new tools, Kibana, ElasticSearch, Dynatrace and Grafana!
-- However, I am still keep relevant to Java with my grind project!
-- This is a project I am running on my free time to keep my Java hands relevant and my develop skills fresh.
-- I usually make it public when I am looking for a job, but you are free to ask for viewing access! :D
-- 💞️ I’m enjoying my new Perfomance Engineering gig @ Sky, and my side projects here! :D
+- 👀 I’m interested in anything about coding!
+- 🌱 I’m currently returned to being a developer working in a Java/React Stack!
+- Under the compilation of these repos you'll find personal projects and other experimental learning pockets!
+- Most of my repositories are private, just send me a message if anyhting interests you! :D
+- 💞️ After learning a few new tricks as a Performance Engineer, I am back into developing and buzzin about it~
 - 📫 How to reach me you can comment on my code for starters! :D
 
 <!---
