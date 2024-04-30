@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Glassmade
+- 👋 Hi, I’m @DKoulialis
 - 👀 I’m interested in anything about coding!
 - 🌱 I’m currently returned to being a developer working in a Java/React Stack!
 - Under the compilation of these repos you'll find personal projects and other experimental learning pockets!
@@ -7,6 +7,6 @@
 - 📫 How to reach me you can comment on my code for starters! :D
 
 <!---
-Glassmade/Glassmade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
