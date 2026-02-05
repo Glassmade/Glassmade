@@ -3,7 +3,7 @@
 - 🌱 I’m currently working in Medicine technologies with Thermofisher.
 - Under the compilation of these repositories, you'll find personal projects and other experimental learning pockets!
 - Most of my repositories are private, but if you know anything about what I am doing, send me a direct message to provide you with access.
-- 💞️ This is my 5th year as an IT professional, and I keep loving it! :D
+- 💞️ This is my 6th year as an IT professional, and I keep loving it! :D
 - 📫 If you do not know how to reach me, just leave a comment on one of my code lines. I'll appreciate your thoughts regardless! :)
 
 <!---
